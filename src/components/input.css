@@ -1,0 +1,15 @@
+.inp{
+    padding: 15px;
+    width:300px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.tag{
+    font-size: 35px;
+}
+.btn2{
+    padding: 15px;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    background-color: lightblue;
+}
